@@ -16,6 +16,6 @@ The progam excracts files from "https://www.conecte.es/index.php/es/plantas/mapa
 3. **Extract files info**<br>
 	3.1. Take Fecha, Usuario, Ficha, Tipo and Contenido for each file<br>
 ![Image](img/3_ObtenerDatosFichas_edited.png)
-4. **Export info for each file into an excel**<br
-   4.1. Each row content Municipality, Comarca, Date, User, File, Type and Content
+4. **Export info for each file into an excel**<br>
+   4.1. Each row content Municipality, Comarca, Date, User, File, Type and Content<br>
 ![Image](img/4_ExcelResultado_edited.png)
